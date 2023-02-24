@@ -1,8 +1,9 @@
-# `BIZ-PROTECTION APIs`
+<1-- # `BIZ-PROTECTION APIs` -->
+# `Shopify Auth Token Generator`
 
 <!-- ![Build Status]() -->
 
-[![License: EVOLVE INNOVATIVE SOLUTIONS](https://images.app.goo.gl/NYHxKQHBs7M1FZ9KA)](LICENSE.md)
+<!--[![License: EVOLVE INNOVATIVE SOLUTIONS](https://images.app.goo.gl/NYHxKQHBs7M1FZ9KA)](LICENSE.md) -->
 
 <!-- [![npm version](https://badge.fury.io/js/%40shopify%2Fshopify-api.svg)](https://badge.fury.io/js/%40shopify%2Fshopify-api) -->
 
