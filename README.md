@@ -1,4 +1,4 @@
-<1-- # `BIZ-PROTECTION APIs` -->
+<!-- # `BIZ-PROTECTION APIs` -->
 # `Shopify Auth Token Generator`
 
 <!-- ![Build Status]() -->
