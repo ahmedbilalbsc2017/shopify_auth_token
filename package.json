@@ -1,0 +1,37 @@
+{
+	"name": "biz-protection",
+	"version": "1.0.0",
+	"description": "This app's main purpose is to integration with SHOPIFY, and handle store's claims,  check-out and delivery manegment i.e status delivered etc and send appropriate custom emails",
+	"main": "index.js",
+	"scripts": {
+		"start": "npm index.js",
+		"dev": "cross-env NODE_ENV=development nodemon index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.2.4",
+		"babel-cli": "^6.26.0",
+		"bcrypt": "^5.1.0",
+		"bcryptjs": "^2.4.3",
+		"bluebird": "^3.7.2",
+		"body-parser": "^1.20.1",
+		"chalk": "^4.1.2",
+		"cors": "^2.8.5",
+		"crypto": "^1.0.1",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"helmet": "^6.0.1",
+		"jsonwebtoken": "^9.0.0",
+		"morgan": "^1.10.0",
+		"mysql2": "^3.0.1",
+		"sequelize": "^6.28.0",
+		"shopify-api-node": "^3.12.2"
+	},
+	"devDependencies": {
+		"cross-env": "^7.0.3",
+		"nodemon": "^2.0.20",
+		"prettier": "^2.8.3"
+	}
+}
